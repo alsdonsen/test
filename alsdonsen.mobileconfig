@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.1CF03F8D-A744-4DE2-9D09-0FB58C4A79C9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>1CF03F8D-A744-4DE2-9D09-0FB58C4A79C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyPassword</key>
+			<string>aes911pai</string>
+			<key>ProxyServer</key>
+			<string>192.168.101.6</string>
+			<key>ProxyServerPort</key>
+			<integer>10077</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>wethepeople5G</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>alsdonsen</string>
+	<key>PayloadIdentifier</key>
+	<string>automationdeiMac.CDE449C1-D833-4BB4-8055-0D9A5355833A</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4B3F7E9D-8940-4A12-98AB-B8D91219BBB2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
